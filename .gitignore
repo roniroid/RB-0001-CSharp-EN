@@ -1,0 +1,6 @@
+Roniroid.Basics.API/appsettings.Development.json
+Roniroid.Basics.API/appsettings.json
+Roniroid.Basics.EF/appsettings.Development.json
+Roniroid.Basics.EF/appsettings.json
+Roniroid.Basics.API/bin/Debug/net9.0/appsettings.json
+docs/*

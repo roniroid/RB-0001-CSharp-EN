@@ -1,0 +1,14 @@
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.EF/obj/Debug/net9.0/Roniroid.Basics.EF.csproj.AssemblyReference.cache
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.EF/obj/Debug/net9.0/Roniroid.Basics.EF.GeneratedMSBuildEditorConfig.editorconfig
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.EF/obj/Debug/net9.0/Roniroid.Basics.EF.AssemblyInfoInputs.cache
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.EF/obj/Debug/net9.0/Roniroid.Basics.EF.AssemblyInfo.cs
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.EF/obj/Debug/net9.0/Roniroid.Basics.EF.csproj.CoreCompileInputs.cache
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.EF/bin/Debug/net9.0/Roniroid.Basics.EF.deps.json
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.EF/bin/Debug/net9.0/Roniroid.Basics.EF.runtimeconfig.json
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.EF/bin/Debug/net9.0/Roniroid.Basics.EF.dll
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.EF/bin/Debug/net9.0/Roniroid.Basics.EF.pdb
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.EF/obj/Debug/net9.0/Roniroid.Basics.EF.dll
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.EF/obj/Debug/net9.0/refint/Roniroid.Basics.EF.dll
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.EF/obj/Debug/net9.0/Roniroid.Basics.EF.pdb
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.EF/obj/Debug/net9.0/Roniroid.Basics.EF.genruntimeconfig.cache
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.EF/obj/Debug/net9.0/ref/Roniroid.Basics.EF.dll

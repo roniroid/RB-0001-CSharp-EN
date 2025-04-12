@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Roniroid.Basics.API.props" />
+</Project>

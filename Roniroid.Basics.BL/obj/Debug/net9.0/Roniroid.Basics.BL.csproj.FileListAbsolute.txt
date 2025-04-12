@@ -1,0 +1,17 @@
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.BL/bin/Debug/net9.0/Roniroid.Basics.BL.deps.json
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.BL/bin/Debug/net9.0/Roniroid.Basics.BL.dll
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.BL/bin/Debug/net9.0/Roniroid.Basics.BL.pdb
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.BL/bin/Debug/net9.0/Roniroid.Basics.EF.dll
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.BL/bin/Debug/net9.0/Roniroid.Basics.EF.pdb
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.BL/obj/Debug/net9.0/Roniroid.Basics.BL.csproj.AssemblyReference.cache
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.BL/obj/Debug/net9.0/Roniroid.Basics.BL.GeneratedMSBuildEditorConfig.editorconfig
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.BL/obj/Debug/net9.0/Roniroid.Basics.BL.AssemblyInfoInputs.cache
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.BL/obj/Debug/net9.0/Roniroid.Basics.BL.AssemblyInfo.cs
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.BL/obj/Debug/net9.0/Roniroid.Basics.BL.csproj.CoreCompileInputs.cache
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.BL/obj/Debug/net9.0/Roniroid.F37D3E48.Up2Date
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.BL/obj/Debug/net9.0/Roniroid.Basics.BL.dll
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.BL/obj/Debug/net9.0/refint/Roniroid.Basics.BL.dll
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.BL/obj/Debug/net9.0/Roniroid.Basics.BL.pdb
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.BL/obj/Debug/net9.0/ref/Roniroid.Basics.BL.dll
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.BL/bin/Debug/net9.0/Roniroid.Basics.Core.dll
+/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.BL/bin/Debug/net9.0/Roniroid.Basics.Core.pdb

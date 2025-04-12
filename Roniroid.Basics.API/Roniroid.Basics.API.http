@@ -1,0 +1,6 @@
+@Roniroid.Basics_HostAddress = http://localhost:5132
+
+GET {{Roniroid.Basics.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
