@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MbIee1MFxZc=",
+  "dgSpecHash": "mw+J+ahSoQY=",
   "success": true,
   "projectFilePath": "/home/saintorel/Documents/Projects/.NET/Roniroid Basics/Roniroid.Basics.API/Roniroid.Basics.API.csproj",
   "expectedPackageFiles": [
@@ -64,7 +64,7 @@
     "/home/saintorel/.nuget/packages/system.security.cryptography.xml/8.0.2/system.security.cryptography.xml.8.0.2.nupkg.sha512",
     "/home/saintorel/.nuget/packages/system.security.principal.windows/5.0.0/system.security.principal.windows.5.0.0.nupkg.sha512",
     "/home/saintorel/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
-    "/home/saintorel/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.3/microsoft.aspnetcore.app.ref.9.0.3.nupkg.sha512"
+    "/home/saintorel/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512"
   ],
   "logs": []
 }
